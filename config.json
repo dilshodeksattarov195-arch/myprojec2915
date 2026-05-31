@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionvalidate",
+        "uuid": 28523275,
+        "checksum": "hf50v4"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
